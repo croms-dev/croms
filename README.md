@@ -1,6 +1,6 @@
 # Cross-Scale Regional Ocean Modeling System (CROMS)
 
-CROMS is an advanced ocean modeling system built upon ROMS and CROCO, and is collaboratively developed and maintained by Indian and international research groups spanning Earth science, computer science, artificial intelligence, and applied mathematics. A central objective of CROMS is to resolve fine-scale ocean dynamics, particularly in coastal regions and to accurately represent their interactions with larger-scale processes. The system incorporates several advanced capabilities, including a hydrostatic/non-hydrostatic solver, coupled ocean–wave–atmosphere dynamics, evolving marine biogeochemistry.
+CROMS is an advanced ocean modeling system built upon AI, ROMS, and CROCO, and is collaboratively developed and maintained by Indian and international research groups spanning Earth science, computer science, artificial intelligence, and applied mathematics. A central objective of CROMS is to resolve fine-scale ocean dynamics, particularly in coastal regions and to accurately represent their interactions with larger-scale processes. The system incorporates several advanced capabilities, including a hydrostatic/non-hydrostatic solver, coupled ocean–wave–atmosphere dynamics, evolving marine biogeochemistry.
 
 
 ![CROMS Logo](https://github.com/croms-dev/croms/blob/master/croms.png)
