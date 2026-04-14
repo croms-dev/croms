@@ -125,7 +125,7 @@ include Makedefs
 
  SRCS90 = \
 	buffer.F90\
-        obc_orlanski_lstm_psc_m3.F90\
+        obc_orlanski_lstm_psc_m3.F90 bulk_flux_mlp.F90\
 	nn_stab_func.F90  nn_pge_correction.F90 tgru_vmix_mod.F90\
 	nn_eos_func.F90  nn_hmix_coef.F90\
 	par_pisces.F90	oce_trc.F90	trc.F90		sms_pisces.F90\
